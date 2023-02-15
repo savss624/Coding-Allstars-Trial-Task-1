@@ -1,6 +1,6 @@
 # Coding Allstars Trial Task 1
 
-The task was to copy [ClassCentral](https://www.classcentral.com/) pages up to a depth of one level and translate their content to Hindi. You can check out the translated live website at [this link](http://ec2-3-1-200-236.ap-southeast-1.compute.amazonaws.com/web/translated_html/index.html).
+The task was to copy [ClassCentral](https://www.classcentral.com/) pages up to one level deep and translate their content to Hindi. You can check out the translated live website at [this link](http://ec2-3-1-200-236.ap-southeast-1.compute.amazonaws.com/web/translated_html/index.html).
 
 ### Scraping the pages
 
